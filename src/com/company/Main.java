@@ -32,7 +32,7 @@ public class Main {
         int result = num1 * num2;
         return result;
     }
-
+        // Привет учитель
     public static void addition(int num1, int num2, String word) {// невозвращаемый метод с входящими параметрами
         System.out.println(num1 + num2);
         System.out.println(word);
